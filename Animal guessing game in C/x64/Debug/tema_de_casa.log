@@ -1,0 +1,12 @@
+﻿  main.c
+C:\Users\user\Downloads\librarie.h(21,24): warning C4133: 'function': incompatible types - from 'FILE *' to 'const char *const '
+C:\Users\user\Downloads\librarie.h(25,24): warning C4133: 'function': incompatible types - from 'FILE *' to 'const char *const '
+C:\Users\user\Downloads\librarie.h(57,23): warning C4013: 'get_answer' undefined; assuming extern returning int
+C:\Users\user\Downloads\librarie.h(122,25): warning C4047: '=': 'char *' differs in levels of indirection from 'char (*)[100]'
+C:\Users\user\Downloads\librarie.h(144,21): warning C4047: '==': 'int' differs in levels of indirection from 'char [2]'
+C:\Users\user\Downloads\librarie.h(147,25): warning C4047: '==': 'int' differs in levels of indirection from 'char [2]'
+C:\Users\user\Downloads\main.c(34,24): warning C4047: 'function': 'const char *' differs in levels of indirection from 'char (*)[100]'
+C:\Users\user\Downloads\main.c(34,15): warning C4024: 'fopen': different types for formal and actual parameter 1
+C:\Users\user\Downloads\librarie.h(154): warning C4715: 'play_again': not all control paths return a value
+C:\Users\user\Downloads\librarie.h(93): warning C4715: 'ask_if_animal': not all control paths return a value
+  tema_de_casa.vcxproj -> D:\faculta\AN 2\SDA\tema_de_casa\x64\Debug\tema_de_casa.exe
